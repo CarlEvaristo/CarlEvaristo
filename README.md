@@ -1,7 +1,8 @@
 # Hi there 👋
 
 Frontend web development using Javascript and React.
-HTML5, CSS3, Python, Flask.
+Tech Stack: React JavaScript HTML5 CSS3 Python Flask 
+Learning: Node.js MongoDB Web3
 
 ## JAVASCRIPT STUDY PROJECTS
 https://carlevaristo.github.io/dice-game/  <br/>

@@ -5,20 +5,20 @@ Python algo trading.
 
 # JAVASCRIPT STUDY PROJECTS
 
-https://carlevaristo.github.io/barbecue-landing-page/
-https://carlevaristo.github.io/CSS-fundamentals-challenge/
-https://carlevaristo.github.io/The-Simple-Life---mobile-first-approach/
-https://carlevaristo.github.io/dice-game/
-https://carlevaristo.github.io/carousel/
-https://carlevaristo.github.io/modal-invoice/
-https://carlevaristo.github.io/NFT-website-design/
-https://carlevaristo.github.io/chrome-extension/
-https://carlevaristo.github.io/password-generator/
-https://carlevaristo.github.io/blackjack-game/
-https://carlevaristo.github.io/unit-converter-app/
-https://carlevaristo.github.io/hometown-homepage/
-https://carlevaristo.github.io/cv/
-https://carlevaristo.github.io/keeper-app-finish/
+https://carlevaristo.github.io/barbecue-landing-page/  <br/>
+https://carlevaristo.github.io/CSS-fundamentals-challenge/  <br/>
+https://carlevaristo.github.io/The-Simple-Life---mobile-first-approach/  <br/>
+https://carlevaristo.github.io/dice-game/  <br/>
+https://carlevaristo.github.io/carousel/  <br/>
+https://carlevaristo.github.io/modal-invoice/  <br/>  
+https://carlevaristo.github.io/NFT-website-design/  <br/>
+https://carlevaristo.github.io/chrome-extension/  <br/>
+https://carlevaristo.github.io/password-generator/  <br/>
+https://carlevaristo.github.io/blackjack-game/  <br/>
+https://carlevaristo.github.io/unit-converter-app/  <br/>
+https://carlevaristo.github.io/hometown-homepage/  <br/>
+https://carlevaristo.github.io/cv/  <br/>
+https://carlevaristo.github.io/keeper-app-finish/  <br/>
 
 
 <!--

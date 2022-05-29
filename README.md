@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning frontend web development using javascript and React.
-
+Frontend web development using javascript and React.
+Python algo trading.
 
 <!--
 **CarlEvaristo/CarlEvaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

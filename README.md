@@ -1,10 +1,9 @@
-## Hi there, I’m looking for a remote frontend Javascript React job 👋
+# Hi there, I’m Carl 👋
+## I’m looking for a remote Javascript React frontend job 
 
-Frontend web development using Javascript and React.  <br/>
-Tech Stack: React JavaScript HTML5 CSS3 Python Flask   <br/>
-Learning: Typescript Tailwind Node.js MongoDB Web3  <br/><br/>
-
-📫 How to reach me: thepythoneer@gmail.com <br/>
+- 🛠 Tech Stack: React JavaScript HTML5 CSS3 Python Flask   <br/>
+- 🌱 Learning: Typescript Tailwind Node.js MongoDB Web3  <br/>
+- 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
 https://carlevaristo.github.io/dice-game/  <br/>

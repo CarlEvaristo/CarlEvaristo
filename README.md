@@ -1,4 +1,4 @@
-# Hi there, I’m looking for a remote frontend Javascript React job 👋
+## Hi there, I’m looking for a remote frontend Javascript React job 👋
 
 Frontend web development using Javascript and React.  <br/>
 Tech Stack: React JavaScript HTML5 CSS3 Python Flask   <br/>

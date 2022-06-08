@@ -7,7 +7,7 @@
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
-https://carlevaristo.github.io/bored-bot/
+https://carlevaristo.github.io/bored-bot/ <br>
 https://carlevaristo.github.io/role-playing-game/ <br>
 https://carlevaristo.github.io/dice-game/  <br/>
 https://carlevaristo.github.io/carousel/  <br/>

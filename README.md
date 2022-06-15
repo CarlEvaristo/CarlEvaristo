@@ -7,6 +7,7 @@
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
+https://carlevaristo.github.io/movie-watchlist/ <br>
 https://carlevaristo.github.io/Card-Game/ <br>
 https://carlevaristo.github.io/color-scheme-generator/ <br>
 https://carlevaristo.github.io/blog-space/ <br>

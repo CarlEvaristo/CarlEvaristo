@@ -2,9 +2,12 @@
 ## I’m looking for a remote Javascript React frontend job 
 
 - 🛠 Tech Stack: React JavaScript HTML5 CSS3 Python Flask   <br/>
-- 🌱 Learning: Typescript Tailwind Next.js Node.js MongoDB  <br/>
-- 🧭 Future: Tensorflow.js Web3  <br/>
+- 🌱 Learning: React Typescript Tailwind Next.js Node.js MongoDB  <br/>
+- 🧭 Future: Tensorflow.js Web3 React Native <br/>
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
+
+## REACT STUDY PROJECT
+https://carlevaristo.github.io/keeper-app-finish/  <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
 https://carlevaristo.github.io/movie-watchlist/ <br>
@@ -28,10 +31,6 @@ https://carlevaristo.github.io/The-Simple-Life---mobile-first-approach/  <br/>
 https://carlevaristo.github.io/NFT-website-design/  <br/>
 https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
-
-## REACT STUDY PROJECTS
-https://carlevaristo.github.io/keeper-app-finish/  <br/>
-
 
 <!--
 **CarlEvaristo/CarlEvaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

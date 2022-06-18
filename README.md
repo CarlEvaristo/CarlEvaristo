@@ -10,6 +10,7 @@
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
+https://carlevaristo.github.io/momentum-browser-extension/ <br>
 https://carlevaristo.github.io/movie-watchlist/ <br>
 https://carlevaristo.github.io/Card-Game/ <br>
 https://carlevaristo.github.io/color-scheme-generator/ <br>

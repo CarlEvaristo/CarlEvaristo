@@ -34,6 +34,9 @@ https://carlevaristo.github.io/NFT-website-design/  <br/>
 https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
 
+## PYTHON / ALGORITHMIC TRADING STUDY PROJECTS
+https://github.com/CarlEvaristo/elon-musk-bot/blob/master/ElonBot.py  <br/>
+
 <!--
 **CarlEvaristo/CarlEvaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

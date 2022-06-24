@@ -39,6 +39,7 @@ https://github.com/CarlEvaristo/elon-musk-bot/blob/master/ElonBot.py  <br/>
 https://github.com/CarlEvaristo/decentralized-mango-markets-data-fetching  <br/>
 https://github.com/CarlEvaristo/phemex-ftx-spot-perp-arbitrage-asyncio   <br/>
 https://github.com/CarlEvaristo/bybit-ftx-arbitrage-study  <br/>
+https://github.com/CarlEvaristo/cython-study  <br/>
 
 <!--
 **CarlEvaristo/CarlEvaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

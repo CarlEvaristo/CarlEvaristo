@@ -37,6 +37,7 @@ https://carlevaristo.github.io/cv/  <br/>
 ## PYTHON / ALGORITHMIC TRADING STUDY PROJECTS
 https://github.com/CarlEvaristo/elon-musk-bot/blob/master/ElonBot.py  <br/>
 https://github.com/CarlEvaristo/decentralized-mango-markets-data-fetching/blob/master/mango_markets_ftx_arbitrage_data_fetching.py   <br/>
+https://github.com/CarlEvaristo/phemex-ftx-spot-perp-arbitrage-asyncio/blob/master/phemex-ftx-spot-perp-arbitrage-asyncio-using-asyncio-zmq-hedge-as-maker.py   <br/>
 
 <!--
 **CarlEvaristo/CarlEvaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -27,6 +27,7 @@ https://carlevaristo.github.io/unit-converter-app/  <br/>
 
 ## HTML5/CSS3 RESPONSIVENESS MOBILE-FIRST STUDY PROJECTS
 https://carlevaristo.github.io/flexbox-practice/ <br/>
+https://carlevaristo.github.io/Flexbox-Practice-2/ <br/>
 https://carlevaristo.github.io/barbecue-landing-page/  <br/>
 https://carlevaristo.github.io/CSS-fundamentals-challenge/  <br/>
 https://carlevaristo.github.io/The-Simple-Life---mobile-first-approach/  <br/>

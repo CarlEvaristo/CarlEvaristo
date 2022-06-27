@@ -40,7 +40,7 @@ https://github.com/CarlEvaristo/nodejs-weather-app  <br/>
 https://github.com/CarlEvaristo/NodeJS-BMIcalculator  <br/>
 https://github.com/CarlEvaristo/minimalistic-nodejs-server  <br/>
 
-## PYTHON / ALGORITHMIC TRADING STUDY PROJECTS
+## PYTHON / ALGORITHMIC TRADING STUDY REPO'S
 https://github.com/CarlEvaristo/elon-musk-bot/blob/master/ElonBot.py  <br/>
 https://github.com/CarlEvaristo/decentralized-mango-markets-data-fetching  <br/>
 https://github.com/CarlEvaristo/phemex-ftx-spot-perp-arbitrage-asyncio   <br/>

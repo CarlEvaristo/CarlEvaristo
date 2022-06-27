@@ -37,6 +37,7 @@ https://carlevaristo.github.io/cv/  <br/>
 
 ## NODEJS STUDY PROJECTS
 https://github.com/CarlEvaristo/minimalistic-nodejs-server  <br/>
+https://github.com/CarlEvaristo/NodeJS-BMIcalculator  <br/>
 
 ## PYTHON / ALGORITHMIC TRADING STUDY PROJECTS
 https://github.com/CarlEvaristo/elon-musk-bot/blob/master/ElonBot.py  <br/>

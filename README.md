@@ -35,9 +35,10 @@ https://carlevaristo.github.io/NFT-website-design/  <br/>
 https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
 
-## NODEJS STUDY PROJECTS
-https://github.com/CarlEvaristo/minimalistic-nodejs-server  <br/>
+## NODEJS STUDY REPO'S
+https://github.com/CarlEvaristo/nodejs-weather-app  <br/>
 https://github.com/CarlEvaristo/NodeJS-BMIcalculator  <br/>
+https://github.com/CarlEvaristo/minimalistic-nodejs-server  <br/>
 
 ## PYTHON / ALGORITHMIC TRADING STUDY PROJECTS
 https://github.com/CarlEvaristo/elon-musk-bot/blob/master/ElonBot.py  <br/>

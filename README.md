@@ -35,7 +35,11 @@ https://carlevaristo.github.io/NFT-website-design/  <br/>
 https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
 
-## NODEJS STUDY REPO'S
+## NODEJS PROJECTS
+### Newsletter signup page, Node backend, sends data to Mailchimp API, deployed on Heroku:
+https://ancient-cove-95628.herokuapp.com/signup.html <br/>
+
+### Nodejs study repo's
 https://github.com/CarlEvaristo/nodejs-weather-app  <br/>
 https://github.com/CarlEvaristo/NodeJS-BMIcalculator  <br/>
 https://github.com/CarlEvaristo/minimalistic-nodejs-server  <br/>

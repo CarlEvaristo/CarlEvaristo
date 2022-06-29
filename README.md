@@ -38,6 +38,8 @@ https://carlevaristo.github.io/cv/  <br/>
 ## NODEJS PROJECTS
 ### Newsletter signup page, Node backend, sends data to Mailchimp API, deployed on Heroku:
 https://ancient-cove-95628.herokuapp.com/signup.html <br/>
+### To Do List, saves todo's in backend, using node, express, and EJS for rendering templates
+https://sheltered-hollows-21071.herokuapp.com/
 
 ### Nodejs study repo's
 https://github.com/CarlEvaristo/nodejs-weather-app  <br/>

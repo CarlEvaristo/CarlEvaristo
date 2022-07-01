@@ -36,12 +36,15 @@ https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
 
 ## NODEJS PROJECTS
-### Car Wish List, saves data to MongoDB database, using node, express, and EJS for server-side rendering.
-Deployed on Heroku and MongoDB Atlas.
-https://flannel-minister-92006.herokuapp.com/
-### Newsletter signup page, Node backend, sends data to Mailchimp API, deployed on Heroku:
+### Car Wish List
+Saves data to MongoDB database, using node, express, and EJS for server-side rendering.   <br/>
+Deployed on Heroku and MongoDB Atlas.  <br/>
+https://flannel-minister-92006.herokuapp.com/ 
+### Newsletter signup page
+Node backend, sends data to Mailchimp API, deployed on Heroku.   <br/>
 https://ancient-cove-95628.herokuapp.com/signup.html <br/>
-### To Do List, saves todo's in backend, using node, express, and EJS for rendering templates
+### To Do List
+Saves todo's in backend, using node, express, and EJS for rendering templates.   <br/>
 https://sheltered-hollows-21071.herokuapp.com/
 
 ### Nodejs study repo's

@@ -1,9 +1,9 @@
 # Hi there, I’m Carl 👋
 ## I’m looking for a remote Javascript React frontend job 
 
-- 🛠 Tech Stack: React JavaScript HTML5 CSS3 Python Flask   <br/>
-- 🌱 Learning: React Typescript Tailwind Next.js Node.js MongoDB  <br/>
-- 🧭 Future: Tensorflow.js Web3 React Native <br/>
+- 🛠 Tech Stack: React JavaScript Node.js MongoDB HTML5 CSS3 Python Flask   <br/>
+- 🌱 Learning: Typescript Tailwind <br/>
+- 🧭 Future: Next.js Tensorflow.js Web3 React Native <br/>
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## REACT STUDY PROJECT

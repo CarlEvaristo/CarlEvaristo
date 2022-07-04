@@ -47,7 +47,7 @@ https://flannel-minister-92006.herokuapp.com/
 Node backend, sends data to Mailchimp API, deployed on Heroku.   <br/>
 https://ancient-cove-95628.herokuapp.com/signup.html <br/>
 ### To Do List
-Saves todo's in backend, using node, express, and EJS for rendering templates.   <br/>
+Saves todo's in backend, using node, express, and EJS for rendering templates, deployed on Heroku.   <br/>
 https://sheltered-hollows-21071.herokuapp.com/
 
 ### Nodejs study repo's

@@ -43,7 +43,7 @@ https://marvelous-saguaro-16795.herokuapp.com/
 Saves data to MongoDB database, using node, express, and EJS for server-side rendering.   <br/>
 Deployed on Heroku and MongoDB Atlas.  <br/>
 https://flannel-minister-92006.herokuapp.com/ 
-### Newsletter signup page
+### Mailchimp Newsletter signup page
 Node backend, sends data to Mailchimp API, deployed on Heroku.   <br/>
 https://ancient-cove-95628.herokuapp.com/signup.html <br/>
 ### To Do List

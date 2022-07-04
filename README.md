@@ -37,9 +37,7 @@ https://carlevaristo.github.io/cv/  <br/>
 
 ## NODEJS PROJECTS
 ### Custom RESTful API
-I created a RESTfulAPI, with GET, POST, PUT, and DELETE endpoints.
-I wrote documentation in Postman. The data is saved in a MongoDB database.
-The frontend is rendered using server-side rendering in EJS. This is the frontend to test the API:
+a custom RESTful API for a blog website, using a MongoDB  database server. Deployed to Heroku. API documentation made with Postman. I Used server-side rendering with EJS to build a frontend, to publish the API's documentation and as testing environment for GET, POST, PUT, and DELETE requests:
 https://marvelous-saguaro-16795.herokuapp.com/
 ### Car Wish List
 Saves data to MongoDB database, using node, express, and EJS for server-side rendering.   <br/>

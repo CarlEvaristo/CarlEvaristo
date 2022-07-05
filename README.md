@@ -37,7 +37,7 @@ https://carlevaristo.github.io/cv/  <br/>
 
 ## NODEJS PROJECTS
 ### Custom RESTful API
-A custom RESTful API for a blog website, using a MongoDB  database server. Deployed to Heroku and MongoDB Atlas. API documentation made with Postman. I Used server-side rendering with EJS to build a frontend, to publish the API's documentation and as testing environment for GET, POST, PUT, and DELETE requests:
+A custom RESTful API for a blog website, using a MongoDB  database server. Deployed to Heroku and MongoDB Atlas. API documentation made with Postman. I Used server-side rendering with EJS to build a frontend, to publish the API's documentation and as testing environment for GET, POST, PUT, and DELETE requests:  <br/>
 https://marvelous-saguaro-16795.herokuapp.com/
 ### Car Wish List
 Saves data to MongoDB database, using node, express, and EJS for server-side rendering.   <br/>

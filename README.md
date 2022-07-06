@@ -26,14 +26,16 @@ https://carlevaristo.github.io/blackjack-game/  <br/>
 https://carlevaristo.github.io/unit-converter-app/  <br/>
 
 ## HTML5/CSS3 RESPONSIVENESS MOBILE-FIRST STUDY PROJECTS
-https://carlevaristo.github.io/flexbox-practice/ <br/>
-https://carlevaristo.github.io/Flexbox-Practice-2/ <br/>
 https://carlevaristo.github.io/barbecue-landing-page/  <br/>
 https://carlevaristo.github.io/CSS-fundamentals-challenge/  <br/>
 https://carlevaristo.github.io/The-Simple-Life---mobile-first-approach/  <br/>
 https://carlevaristo.github.io/NFT-website-design/  <br/>
 https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
+https://carlevaristo.github.io/Gridbox-Areas-Study/ <br/>
+https://carlevaristo.github.io/gridbox-practice/ <br/>
+https://carlevaristo.github.io/flexbox-practice/ <br/>
+https://carlevaristo.github.io/Flexbox-Practice-2/ <br/>
 
 ## NODEJS PROJECTS
 ### Custom RESTful API

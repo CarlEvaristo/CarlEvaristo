@@ -32,6 +32,7 @@ https://carlevaristo.github.io/The-Simple-Life---mobile-first-approach/  <br/>
 https://carlevaristo.github.io/NFT-website-design/  <br/>
 https://carlevaristo.github.io/hometown-homepage/  <br/>
 https://carlevaristo.github.io/cv/  <br/>
+https://carlevaristo.github.io/Book-gallery-gridbox-practice/
 https://carlevaristo.github.io/Pokemon-Cards-fetch-gridbox/   <br/>
 https://carlevaristo.github.io/Gridbox-Portfolio-Layout-Example/  <br/>
 https://carlevaristo.github.io/Gridbox-Areas-Study/ <br/>

@@ -40,7 +40,7 @@ https://ancient-cove-95628.herokuapp.com/signup.html <br/>
 Saves todo's in backend, using node, express, and EJS for rendering templates, deployed on Heroku.   <br/>
 https://sheltered-hollows-21071.herokuapp.com/
 
-## Nodejs study repo's
+### Nodejs study repo's
 https://github.com/CarlEvaristo/nodejs-weather-app  <br/>
 https://github.com/CarlEvaristo/NodeJS-BMIcalculator  <br/>
 https://github.com/CarlEvaristo/minimalistic-nodejs-server  <br/>

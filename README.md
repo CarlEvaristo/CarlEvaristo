@@ -6,8 +6,11 @@
 - 🧭 Future: Next.js Tensorflow.js Web3 React Native <br/>
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
-## REACT STUDY PROJECT
+## REACT PROJECTS
+### A Google Keep app clone deployed to Github
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
+### A React practice app deployed to Vercel
+https://react-study-project-2.vercel.app/  <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
 https://carlevaristo.github.io/momentum-browser-extension/ <br>

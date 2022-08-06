@@ -9,8 +9,9 @@
 ## REACT PROJECTS
 ### A Google Keep app clone deployed to Github
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
-### A React practice app deployed to Vercel
+### React practice projects deployed to Vercel
 https://react-study-project-2.vercel.app/  <br/>
+https://solo-project-1-bice.vercel.app/  <br/>
 
 ## JAVASCRIPT STUDY PROJECTS
 https://carlevaristo.github.io/momentum-browser-extension/ <br>

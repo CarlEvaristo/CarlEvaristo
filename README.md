@@ -10,6 +10,9 @@
 ### A Google Keep app clone deployed to Github
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
 
+### Dynamically rendered React practice project deployed to Vercel
+
+
 ### Static React practice projects deployed to Vercel
 https://react-study-project-2.vercel.app/  <br/>
 https://solo-project-1-bice.vercel.app/  <br/>

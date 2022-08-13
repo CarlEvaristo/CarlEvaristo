@@ -10,7 +10,7 @@
 ### A Google Keep app clone deployed to Github
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
 
-### Dynamically rendered React practice project deployed to Vercel
+### Dynamically rendered React practice projects deployed to Vercel
 https://airbnb-experiences-eight.vercel.app/  <br/>
 https://travel-journal-ivory-two.vercel.app/  <br/>
 

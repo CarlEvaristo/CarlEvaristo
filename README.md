@@ -1,5 +1,5 @@
 # Hi there, I’m Carl 👋
-## I’m looking for a remote Javascript React frontend job 
+## I’m looking for a Javascript React frontend job 
 
 - 🛠 Tech Stack: React JavaScript Node.js MongoDB HTML5 CSS3 Python Flask   <br/>
 - 🌱 Learning: Typescript Tailwind <br/>

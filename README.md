@@ -8,7 +8,7 @@
 
 ## REACT PROJECTS
 ### A Markdown Notes Editor deployed to Vercel
-I build this md editor to make it easier to write my readme files.  
+*I build this md editor to make it easier to write my readme files.*  
 Live: https://notes-app-seven-green.vercel.app  
 Repo: https://github.com/CarlEvaristo/notes-app  
 

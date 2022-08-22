@@ -8,9 +8,9 @@
 
 ## REACT PROJECTS
 ### A Markdown Notes Editor deployed to Vercel
-I build this md editor to make it easier to write my readme files.
-Live: https://notes-app-seven-green.vercel.app/  <br/>
-Repo: https://github.com/CarlEvaristo/notes-app  <br/>
+I build this md editor to make it easier to write my readme files.  
+Live: https://notes-app-seven-green.vercel.app  
+Repo: https://github.com/CarlEvaristo/notes-app  
 
 ### A Google Keep app clone deployed to Github
 https://carlevaristo.github.io/keeper-app-finish/  <br/>

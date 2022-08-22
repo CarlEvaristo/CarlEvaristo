@@ -8,7 +8,7 @@
 
 ## REACT PROJECTS
 ### A Markdown Notes Editor deployed to Vercel
-Live: https://notes-app-seven-green.vercel.app/
+Live: https://notes-app-seven-green.vercel.app/  <br/>
 Repo: https://github.com/CarlEvaristo/notes-app  <br/>
 
 ### A Google Keep app clone deployed to Github

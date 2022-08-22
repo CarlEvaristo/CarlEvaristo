@@ -13,9 +13,11 @@ Live: https://notes-app-seven-green.vercel.app
 Repo: https://github.com/CarlEvaristo/notes-app  
 
 ### A Google Keep app clone deployed to Github
+*Still a work in progress.*  
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
 
 ### Dynamically rendered React practice projects deployed to Vercel
+*React, useState and useEffect hooks, flex- and gridbox layouts, meme-images fetched from API: https://imgflip.com/api*  
 https://airbnb-experiences-eight.vercel.app/  <br/>
 https://travel-journal-ivory-two.vercel.app/  <br/>
 https://meme-generator-sooty-mu.vercel.app/  <br/>

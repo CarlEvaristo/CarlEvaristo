@@ -7,6 +7,10 @@
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## REACT PROJECTS
+### A Markdown Notes Editor deployed to Vercel
+Live: https://notes-app-seven-green.vercel.app/
+Repo: https://github.com/CarlEvaristo/notes-app  <br/>
+
 ### A Google Keep app clone deployed to Github
 https://carlevaristo.github.io/keeper-app-finish/  <br/>
 

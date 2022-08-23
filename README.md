@@ -1,5 +1,5 @@
 # Hi there, I’m Carl 👋
-## I’m looking for a Javascript React (and/or Nodejs) job 
+## I’m looking for a frontend / Javascript / React / Node.js job 
 
 - 🛠 Tech Stack: React JavaScript Node.js MongoDB HTML5 CSS3 Python Flask   <br/>
 - 🌱 Learning: Typescript Tailwind <br/>

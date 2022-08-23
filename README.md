@@ -7,6 +7,12 @@
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## REACT PROJECTS
+
+### Tenzies Game deployed to Vercel
+*React, useState and useEffect hooks practice, flex- and gridbox layout*  
+Live: https://tenzies-game-rosy.vercel.app/
+Repo: https://github.com/CarlEvaristo/tenzies-game
+
 ### A Markdown Notes Editor deployed to Vercel
 *I build this md editor to make it easier to write my own readme files.*  
 Live: https://notes-app-seven-green.vercel.app  

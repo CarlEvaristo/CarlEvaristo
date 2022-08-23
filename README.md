@@ -9,7 +9,7 @@
 ## REACT PROJECTS
 
 ### Tenzies Game deployed to Vercel
-*React, useState and useEffect hooks practice, flex- and gridbox layout*  
+*A dice game, practicing React, useState and useEffect hooks, and flex- / gridbox layout*  
 Live: https://tenzies-game-rosy.vercel.app/
 Repo: https://github.com/CarlEvaristo/tenzies-game
 

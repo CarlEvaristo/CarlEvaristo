@@ -8,10 +8,10 @@
 
 ## REACT PROJECTS
 
-### Tenzies Game deployed to Vercel
-*A dice game, practicing React, useState and useEffect hooks, and flex- / gridbox layout*  
-Live: https://tenzies-game-rosy.vercel.app/
-Repo: https://github.com/CarlEvaristo/tenzies-game
+### Tenzies Game frontend in React, backend in nodejs/express using Mongodb and deployed to Heroku  
+*A dice game, practicing React, hooks, Nodejs, Express, Mongodb, and flex- / gridbox layout*  
+Live: https://tranquil-ocean-78455.herokuapp.com/  
+Repo: https://github.com/CarlEvaristo/tenzies-game  
 
 ### A Markdown Notes Editor deployed to Vercel
 *I build this md editor to make it easier to write my own readme files.*  

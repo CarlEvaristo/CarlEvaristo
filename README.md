@@ -8,8 +8,8 @@
 
 ## REACT PROJECTS
 
-### Tenzies Game, React frontend, nodejs/express backend using Mongodb and deployed to Heroku  
-*A dice game, MERN stack: React, hooks, Nodejs, Express, Mongodb, styled with flex- / gridbox*  
+### Fullstack Tenzies Game, React frontend, nodejs/express/mongodb backend, deployed to Heroku  
+*A dice game, MERN stack: React, hooks, Nodejs, Express, Mongodb, css flexbox, gridbox and animation*  
 *I invited other frontend developers to battle eachother for the highest score*  
 Live: https://tranquil-ocean-78455.herokuapp.com/  
 Repo: https://github.com/CarlEvaristo/tenzies-game  

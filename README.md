@@ -14,7 +14,7 @@
 Live: https://tranquil-ocean-78455.herokuapp.com/  
 Repo: https://github.com/CarlEvaristo/tenzies-game  
 
-### An advanced multiple choice quiz in React
+### Quizzical: An advanced multiple choice quiz in React
 Live: https://quizzical-lime.vercel.app/  
 Repo: https://github.com/CarlEvaristo/quizzical  
 

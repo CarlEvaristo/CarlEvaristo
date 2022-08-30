@@ -10,9 +10,13 @@
 
 ### Fullstack Tenzies Game, React frontend, nodejs/express/mongodb backend, deployed to Heroku  
 *A dice game, MERN stack: React, hooks, Nodejs, Express, Mongodb, css flexbox, gridbox and animation*  
-*I invited other frontend developers to battle eachother for the highest score*  
+*I invited other Scrimba developers to battle eachother for the highest score*  
 Live: https://tranquil-ocean-78455.herokuapp.com/  
 Repo: https://github.com/CarlEvaristo/tenzies-game  
+
+### An advanced multiple choice quiz in React
+Live: https://quizzical-lime.vercel.app/  
+Repo: https://github.com/CarlEvaristo/quizzical  
 
 ### A Markdown Notes Editor deployed to Vercel
 *I build this md editor to make it easier to write my own readme files.*  

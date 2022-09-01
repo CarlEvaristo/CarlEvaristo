@@ -15,7 +15,7 @@ Live: https://tranquil-ocean-78455.herokuapp.com/
 Repo: https://github.com/CarlEvaristo/tenzies-game  
 
 ### Fullstack Chat app deployed to Firebase  
-*React, hooks, firebase authentication/ firestore database*  
+*React, hooks, firebase authentication, stored to firestore cloud database*  
 Live: https://chat-app-2c50f.web.app/  
 Repo: https://github.com/CarlEvaristo/chat-app-firebase  
 

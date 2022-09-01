@@ -18,6 +18,9 @@ Repo: https://github.com/CarlEvaristo/tenzies-game
 *React, hooks, firebase authentication, stored to firestore cloud database*  
 Live: https://chat-app-2c50f.web.app/  
 Repo: https://github.com/CarlEvaristo/chat-app-firebase  
+*This project came from a study on Firebase Authentication:*
+Live: https://basic-authentication-a6f8c.web.app/  
+Repo: https://github.com/CarlEvaristo/basic-authentication-firebase
 
 ### Quizzical: An advanced multiple choice quiz in React deployed to Vercel
 *React, hooks, React forms*  

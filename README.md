@@ -19,9 +19,10 @@ Repo: https://github.com/CarlEvaristo/tenzies-game
 Live: https://chat-app-2c50f.web.app/  
 Repo: https://github.com/CarlEvaristo/chat-app-firebase  
 *This project came after these studies on:*  
-*- Firebase Authentication:* https://basic-authentication-a6f8c.web.app/  
+- Firebase Authentication:* https://basic-authentication-a6f8c.web.app/  
 Repo: https://github.com/CarlEvaristo/basic-authentication-firebase  
-*- Firebase CRUD functionality:* https://basic-crud-firebase-a5145.web.app/  
+- Firebase CRUD functionality:* https://basic-crud-firebase-a5145.web.app/  
+Repo: https://github.com/CarlEvaristo/basic-crud-firebase  
 
 ### Quizzical: An advanced multiple choice quiz in React deployed to Vercel
 *React, hooks, React forms*  

@@ -34,6 +34,10 @@ Repo: https://github.com/CarlEvaristo/quizzical
 Live: https://notes-app-seven-green.vercel.app  
 Repo: https://github.com/CarlEvaristo/notes-app  
 
+### Tic Tac Toe game in React deployed to Vercel
+Live: https://tic-tac-toe-eosin-mu.vercel.app/
+Repo: https://github.com/CarlEvaristo/tic-tac-toe
+
 ### A Google Keep app clone deployed to Github
 *Still a work in progress.*  
 https://carlevaristo.github.io/keeper-app-finish/  <br/>

@@ -40,7 +40,7 @@ Live: https://tic-tac-toe-eosin-mu.vercel.app/
 Repo: https://github.com/CarlEvaristo/tic-tac-toe  
 
 ### Speed Typing Game  
-*React game using useState, useEffect, and useRef hooks*  
+*React game using useState, useEffect, useRef, and custom hooks*  
 Live: https://speed-typing-react-game.vercel.app/  
 Repo: https://github.com/CarlEvaristo/speed-typing-react-game  
 

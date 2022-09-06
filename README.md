@@ -35,9 +35,14 @@ Live: https://notes-app-seven-green.vercel.app
 Repo: https://github.com/CarlEvaristo/notes-app  
 
 ### Tic Tac Toe game in React deployed to Vercel
-React, useState and useEffect hooks, gridbox layout  
+*React, useState and useEffect hooks, gridbox layout*  
 Live: https://tic-tac-toe-eosin-mu.vercel.app/  
 Repo: https://github.com/CarlEvaristo/tic-tac-toe  
+
+### Speed Typing Game  
+*React game using useState, useEffect, and useRef hooks*  
+Live: https://speed-typing-react-game.vercel.app/  
+Repo: https://github.com/CarlEvaristo/speed-typing-react-game  
 
 ### A Google Keep app clone deployed to Github
 *Still a work in progress.*  

@@ -34,6 +34,11 @@ Repo: https://github.com/CarlEvaristo/quizzical
 Live: https://notes-app-seven-green.vercel.app  
 Repo: https://github.com/CarlEvaristo/notes-app  
 
+### React Router: a single page app with multiple routes.  
+*React Router, using useState, useEffect, useRef, useParams hooks, and custom hamburger menu*    
+Live: https://react-router-practice-brown.vercel.app/  
+Repo: https://github.com/CarlEvaristo/react-router-practice  
+
 ### Tic Tac Toe game in React deployed to Vercel
 *React, useState and useEffect hooks, gridbox layout*  
 Live: https://tic-tac-toe-eosin-mu.vercel.app/  

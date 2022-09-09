@@ -30,7 +30,7 @@ Live: https://quizzical-lime.vercel.app/
 Repo: https://github.com/CarlEvaristo/quizzical  
 
 ### A Photo eCommerce site  
-*React hooks (useState, useEffect, useRef, useParams, custom hooks, React Routes, gridbox layout*    
+*React hooks (useState, useEffect, useRef, useParams, custom hooks), React Routes, gridbox layout*    
 Live: https://images-ecommerce-site.vercel.app/  
 Repo: https://github.com/CarlEvaristo/images-ecommerce-site  
 

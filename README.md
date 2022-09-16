@@ -8,6 +8,13 @@
 
 ## REACT PROJECTS
 
+### Fullstack Disney Plus clone (build from scratch), with admin to manage movies and admins.  
+*React frontend using custom hooks, React Context state management, React Routing*  
+*Firebase backend, hooks for authentication, sorage for image files, and firestore users/ movies database*  
+Live frontend: https://disney-plus-clone-9c8f4.web.app/  
+Live Admin: https://disney-plus-clone-9c8f4.web.app/admin *email/password: admin@admin.com/123456)*  
+Repo: https://github.com/CarlEvaristo/disney-plus  
+
 ### Fullstack Tenzies Game, React frontend, nodejs/express/mongodb backend, deployed to Heroku  
 *A dice game, MERN stack: React, hooks, Nodejs, Express, Mongodb, css flexbox, gridbox and animation*  
 *I invited other Scrimba developers to battle eachother for the highest score*  

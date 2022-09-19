@@ -93,6 +93,10 @@ https://carlevaristo.github.io/blackjack-game/  <br/>
 https://carlevaristo.github.io/unit-converter-app/  <br/>
 
 ## NODEJS PROJECTS
+### Basic React/Express/mySQL employee input form with CRUD functionality  
+This was an project to learn integrate React with a mySQL based backend.  
+Repo: https://github.com/CarlEvaristo/basic-crud-sql-site  
+
 ### Custom RESTful API
 A custom RESTful API for a blog website, using a MongoDB  database server. Deployed to Heroku and MongoDB Atlas. API documentation made with Postman. I Used server-side rendering with EJS to build a frontend, to publish the API's documentation and as testing environment for GET, POST, PUT, and DELETE requests:  <br/>
 https://marvelous-saguaro-16795.herokuapp.com/

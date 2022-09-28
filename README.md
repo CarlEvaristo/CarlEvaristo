@@ -1,7 +1,7 @@
 # Hi there, I’m Carl 👋
 ## I’m looking for a frontend / Javascript / React / Node.js job 
 
-- 🛠 Tech Stack: React JavaScript Node.js MongoDB HTML5 CSS3 Python Flask   <br/>
+- 🛠 Tech Stack: React JavaScript NodeJS ExpressJS MongoDB MySQL HTML5 CSS3 Python Flask Pandas Firebase  <br/>
 - 🌱 Learning: Typescript Tailwind <br/>
 - 🧭 Future: Next.js Tensorflow.js Web3 React Native <br/>
 - 📫 How to reach me: thepythoneer@gmail.com <br/>

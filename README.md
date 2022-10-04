@@ -16,7 +16,7 @@ Live frontend: https://disney-plus-clone-9c8f4.web.app/
 Live Admin: https://disney-plus-clone-9c8f4.web.app/admin *email/password: admin@admin.com/123456)*  
 Repo: https://github.com/CarlEvaristo/disney-plus  
 
-### Fullstack Social Media Blog Site (build from scratch), deployed to AWS.  
+### Fullstack Social Media Blog (build from scratch), AWS EC2, RDS, CI/CD.  
 *React Router, React Context state management, and custom hooks. React frontend and NodeJS/ ExpressJS backend deployed to AWS EC2 instance, with MySQL database deployed to AWS RDS, and Cloudinary for image storage. Used AWS Code Pipeline to create as CI/CD integration with GitHub.*  
 Live: http://socialmediaserver-env.eba-3v5vf2qa.us-east-1.elasticbeanstalk.com/   
 Repo: https://github.com/CarlEvaristo/social-media-site

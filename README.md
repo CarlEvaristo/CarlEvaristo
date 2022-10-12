@@ -4,7 +4,7 @@
 ### Portfolio: https://portfolio-theta-red-21.vercel.app/  
 
 - 🏪 Frontend Stack: ReactJS, HTML5, CSS3, NPM, MaterialUI, React Router, Context State Management  <br/>
-- 🛠 Backend Stack: NodeJS, ExpressJS, Flask, Pandas, MySQL, MongoDB, FireBase  <br/>
+- 🛠 Backend Stack: NodeJS, ExpressJS, Flask, Pandas, MySQL, MongoDB, FireBase, AWS Elastic Beanstalk, RDS, S3.  <br/>
 - 👨‍💻 Languages: Javascript, JS ES2015, Python, learning Typescript  <br/>
 - 🧭 Future: Next.js Tensorflow.js Web3 React Native <br/>
 - 📫 How to reach me: thepythoneer@gmail.com <br/>

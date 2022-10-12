@@ -1,6 +1,8 @@
 # Hi there, I’m Carl 👋
 ## I’m looking for a frontend / Javascript / React / Node.js job 
 
+## PORTFOLIO: https://portfolio-theta-red-21.vercel.app/  
+
 - 🏪 Frontend Stack: ReactJS, HTML5, CSS3, NPM, MaterialUI, React Router, Context State Management  <br/>
 - 🛠 Backend Stack: NodeJS, ExpressJS, Flask, Pandas, MySQL, MongoDB, FireBase  <br/>
 - 👨‍💻 Languages: Javascript, JS ES2015, Python, learning Typescript  <br/>

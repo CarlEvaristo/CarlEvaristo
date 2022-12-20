@@ -84,6 +84,10 @@ https://meme-generator-sooty-mu.vercel.app/  <br/>
 https://react-study-project-2.vercel.app/  <br/>
 https://solo-project-1-bice.vercel.app/  <br/>
 
+## NEXTJS STUDY PROJECTS
+*My first NextJS practice project, fetch prices data from crypto api*
+https://nextjs-kohl-tau-19.vercel.app/coins
+
 ## JAVASCRIPT STUDY PROJECTS
 https://carlevaristo.github.io/momentum-browser-extension/ <br>
 https://carlevaristo.github.io/movie-watchlist/ <br>

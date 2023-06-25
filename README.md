@@ -1,5 +1,5 @@
 # Hi there, I’m Carl 👋
-## I’m looking for a frontend / Javascript / React / Node.js job 
+## I’m a dutch frontend / Javascript / React developer
 
 ### Portfolio: https://portfolio-theta-red-21.vercel.app/  
 

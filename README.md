@@ -1,9 +1,9 @@
 # Hi there, I’m Carl 👋
-## I’m a dutch frontend / Javascript / React developer
+## I’m a frontend / Javascript / React developer
 
 ### Portfolio: https://portfolio-theta-red-21.vercel.app/  
 
-- 🏪 Frontend Stack: ReactJS, HTML5, CSS3, NPM, MaterialUI, React Router, Context State Management  <br/>
+- 🏪 Frontend Stack: ReactJS, HTML5, CSS3, NPM, Yarn, MaterialUI, React Router, Redux, useContext  <br/>
 - 🛠 Backend Stack: NodeJS, ExpressJS, Flask, Pandas, MySQL, MongoDB, FireBase, AWS Elastic Beanstalk, RDS, S3.  <br/>
 - 👨‍💻 Languages: Javascript, JS ES2015, Python, learning Typescript  <br/>
 - 🧭 Future: Next.js Tensorflow.js Web3 React Native <br/>

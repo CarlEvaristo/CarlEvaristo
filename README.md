@@ -3,10 +3,10 @@
 
 ### Portfolio: https://portfolio-theta-red-21.vercel.app/  
 
-- 🏪 Frontend Stack: ReactJS, HTML5, CSS3, NPM, Yarn, MaterialUI, React Router, Redux, useContext  <br/>
+- 🏪 Frontend Stack: ReactJS, Next.js, HTML5, CSS3, NPM, Yarn, MaterialUI, React Router, Redux, useContext  <br/>
 - 🛠 Backend Stack: NodeJS, ExpressJS, Flask, Pandas, MySQL, MongoDB, FireBase, AWS Elastic Beanstalk, RDS, S3.  <br/>
-- 👨‍💻 Languages: Javascript, JS ES2015, Python, learning Typescript  <br/>
-- 🧭 Future: Next.js Tensorflow.js Web3 React Native <br/>
+- 👨‍💻 Languages: Javascript, Typescript, Python<br/>
+- 🧭 Learning: Pytorch, React Native <br/>
 - 📫 How to reach me: thepythoneer@gmail.com <br/>
 
 ## REACT PROJECTS
@@ -19,7 +19,7 @@ Live Admin: https://disney-plus-clone-9c8f4.web.app/admin *email/password: admin
 Repo: https://github.com/CarlEvaristo/disney-plus  
 
 ### Fullstack Social Media Blog (build from scratch), AWS EC2, RDS, CI/CD.  
-*React Router, React Context state management, and custom hooks. React frontend and NodeJS/ ExpressJS backend deployed to AWS EC2 instance, with MySQL database deployed to AWS RDS, and Cloudinary for image storage. Used AWS Code Pipeline to create as CI/CD integration with GitHub.*  
+*React Router, React Context state management, and custom hooks. React frontend and NodeJS/ ExpressJS backend deployed to an AWS EC2 instance, with MySQL database deployed to AWS RDS, and Cloudinary for image storage. Used AWS Code Pipeline to create as CI/CD integration with GitHub.*  
 Live: http://socialmediaserver-env.eba-3v5vf2qa.us-east-1.elasticbeanstalk.com/   
 Repo: https://github.com/CarlEvaristo/social-media-site
 
